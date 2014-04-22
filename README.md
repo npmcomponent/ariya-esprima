@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [ariya/esprima](http://github.com/ariya/esprima). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/ariya-esprima`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 **Esprima** ([esprima.org](http://esprima.org), BSD license) is a high performance,
 standard-compliant [ECMAScript](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
 parser written in ECMAScript (also popularly known as
